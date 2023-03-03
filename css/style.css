@@ -1,34 +1,3 @@
-/* .flex_container {
-    border: 10px solid red;
-    display: flex;
-    margin: 0 auto;
-    width: 100%;
-    height: 500px;
-    max-width: 1440px;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-} */
-
-
-/* .flex_container div {
-    width: 400px;
-    height: 50px;
-    font-size: 40px;
-    color: antiquewhite;
-
-} */
-
-
-
-
-
-
-
-
-
-
-
 /* MAIN CONTANER */
 
 .container {
@@ -119,7 +88,7 @@ p {
 
 /* FOOTER */
 
-footer{
+footer {
     width: 100%;
     display: flex;
     align-items: center;
@@ -130,7 +99,7 @@ footer{
 
 
 
-.search{
+.search {
     display: flex;
     color: #9747FF;
     gap: 91px;
